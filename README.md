@@ -2,6 +2,6 @@
 
 
 
-- 🌱 I’m currently learning Unity / C# / .Net / C++.
+- 🌱 I’m currently learning Unity / C#.
 
 - 📫 How to reach me: ugurinal01@hotmail.com
